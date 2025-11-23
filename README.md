@@ -13,4 +13,4 @@ I created a responsive image gallery using HTML and CSS. The layout uses Flexbox
 
 ## Demo
 
-Check out the live demo here: 
+Check out the live demo here: https://yasna-aarabi.github.io/Responsive-Flex/
